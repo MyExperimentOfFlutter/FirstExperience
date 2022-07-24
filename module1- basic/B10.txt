@@ -1,0 +1,2 @@
+Q: can class extends more than one class in dart
+Ans: No in dart we can not implement more than one class, It gives aan error

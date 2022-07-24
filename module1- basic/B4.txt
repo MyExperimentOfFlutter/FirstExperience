@@ -1,0 +1,5 @@
+Q:what is diffrence between inheritance and encapsulation
+Ans: In inheritance, gives us facility to reuse the properties of parent class,
+while in encapsulation we hide implementation part and showing functionality
+in inheritance we use extends keyword to inherit class,
+in encapsulation, we can achieve it using making data members private

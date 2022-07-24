@@ -1,0 +1,3 @@
+Q: Diffrence between object oriented and object based language
+Ans:object oriented language ----- do not have inbuilt object.
+    object based language ----- has inbuilt object

@@ -1,0 +1,2 @@
+Q:Which of the dart OOPS feature promotes data hinding or access protection
+Ans:Encapsulation is a feature that promotes data hinding

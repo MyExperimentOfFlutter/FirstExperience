@@ -1,0 +1,15 @@
+Q:What is inheritance?
+Ans: It is a mechanism that child class can re-use the property of parent class.
+The capability of deriving properties and characteristics from another class is known as inheritance,
+The class which accept properties of another class is known as sub class or child class,
+The class whose properties and characteristics will inherited is known as parent class,
+The limitation of Inheritance is that we can not inherited Constructor of the class 
+
+There are four types of inheritance:
+1.single level: According to this type of inheritance one class extends another class,
+2.multi level : According to this type of inheritance GrandFather class extended by parent class,
+and parent class extended by child class,
+3.multiple    : This inheritance is not supported by dart, According to this inheritance one class 
+extended by two parent class..
+4.hierarchical: when one class extended by two diffrent class, then this kind of inheritance is known as 
+hierarchical inheritance

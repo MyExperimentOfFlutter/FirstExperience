@@ -1,0 +1,16 @@
+Q:What is Encapsulation  in dart
+Ans:Encapsulation is a binding of data into single unit.
+it binds data such as properties, data members and functions into single unit,
+The idea behind encapsulation is to hide implementation detail and showing functionality,
+
+Benifits of encapsulation
+1)Data Hinding:The user will not have an idea about implementation details,he only knows 
+functionality
+2)More Flexibility: We can make variables read-only or write-only, it means that if we want 
+to make variables write-only we have getters methods and to make variables read only we have 
+setters methods
+3)Reusability:It gives feature for code-Reusability
+4)Easy-Testing:Encapsulated code is easy to test for unit testing
+
+If we want to restrict access to certain fields we should make fields private
+The private properties identified by _ ,before the field name

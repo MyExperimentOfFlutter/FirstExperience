@@ -1,0 +1,4 @@
+Q:What will happen if a class implement two interface and they have both same method
+with same signature
+Ans: The child class which implement both interface,Then according the rules of 
+interface method must be define in sub-class with same name and same signature

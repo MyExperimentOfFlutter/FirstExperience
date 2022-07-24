@@ -1,0 +1,4 @@
+Q:Advantage of inheritance
+Ans:We can re-use the properties/fields/methods of parent class,
+we not need to define code again and again,
+it tends to less development and maintanance

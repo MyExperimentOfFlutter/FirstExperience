@@ -1,0 +1,7 @@
+Q:Diffrence between inheritance and abstraction
+Ans:inheritance is a mechanism to derive one class from other class , we use keyword 'extends' for 
+inheritance,
+while in abstraction we use keyword 'abstract' to make class abstract, we can extends abstract class,
+but we have to implement all methods of abstract class,
+abstract class may or may not have abstract methods,
+A class declared with abstract can not be intialised

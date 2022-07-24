@@ -1,0 +1,2 @@
+Q:Can class implement more than one interface
+Ans:yes class can implement more than one interface

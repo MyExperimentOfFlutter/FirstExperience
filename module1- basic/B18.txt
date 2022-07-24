@@ -1,0 +1,12 @@
+Q:How do you implement multiple inheritance in dart
+Ans:multiple inheritance is not supported in dart,
+But there are two ways we can achieve multiple inheritance
+1)with the use of interface
+2)with the use of mixin
+
+1)Interface:
+Dart gives us facility of interface means we can implement one or more than one interface,
+but the restriction is we have to implement all the methods/functions of particular interfaces
+
+2)mixin: mixin is created with 'mixin' keyword, in this we do not need to implement/use all 
+methods of particular 'mixin',we use with keyword to use mixin with another class

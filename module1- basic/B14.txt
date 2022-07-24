@@ -1,0 +1,2 @@
+Q:Are static members inherited to sub classes
+Ans:Yes static members are inherited by sub - classes

@@ -1,0 +1,4 @@
+Q:which inheritance is not supported by dart and why?
+Ans: multiple inheritance is not supported by dart , according to multiple inheritance class can inherit two or
+more classes, the problem occurs when class has same method with same signature in both super class and subclass,
+on calling of a method compiler can not determine which class method is called and even on calling which class method gets priority

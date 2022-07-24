@@ -1,0 +1,2 @@
+Q: can an interface extends more than one interface in dart
+Ans: yes interface extends more than one interface

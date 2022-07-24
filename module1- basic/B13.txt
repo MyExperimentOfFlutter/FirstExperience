@@ -1,0 +1,2 @@
+Q:can we pass object of subclass to a method expecting object of super class
+Ans:Yes , we can pass object of subclass to method expecting object of super class

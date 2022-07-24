@@ -1,0 +1,3 @@
+Q:what are rules of method overriding in dart
+Ans:In interface we use method overriding,The method which will overriden has same name as its
+name declared in parent class and also have same signature

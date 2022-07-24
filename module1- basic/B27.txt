@@ -1,0 +1,2 @@
+Q:Can a subclass instance method override a super class static method
+Ans: No, we can not use static method as strictly not implemented by child class

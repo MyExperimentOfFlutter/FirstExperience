@@ -1,0 +1,3 @@
+Q:Are constructors and initializers inherited to subclass
+Ans:No, constructors and initializers not inherited to sub class,
+but we can call (Parent Constructors) it from child class constructors

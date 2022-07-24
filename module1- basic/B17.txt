@@ -1,0 +1,2 @@
+Q:How you restrict a member of a class from inheriting by its subclass
+Ans:with the use of static method

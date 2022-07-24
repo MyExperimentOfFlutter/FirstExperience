@@ -1,0 +1,3 @@
+Q:what happens when a class implements two interface with same method name and same fields
+Ans:In interface we must implements all methods whichever declared by interfaces,these methods
+will replaced by particular class

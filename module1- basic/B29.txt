@@ -1,0 +1,2 @@
+Q:Can super class access subclass member?
+Ans: No super class can not access subclass member

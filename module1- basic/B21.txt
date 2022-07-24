@@ -1,0 +1,4 @@
+Q:When to override method in dart and when to overload it
+Ans:In dart there is a limitation is that we can not overload method,
+when we use interface , we must override all of its method with same signature,parameters
+and method name

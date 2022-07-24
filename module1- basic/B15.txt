@@ -1,0 +1,3 @@
+Q:What happens if parent and child have field with same identifier
+Ans:In this case identifier of parent class are overwritten by child class,
+means value of same identifier will replaced by child class

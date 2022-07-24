@@ -1,0 +1,2 @@
+Q : can we overload static method in dart?
+Ans: Dart does not support methodoverloading
